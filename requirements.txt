@@ -1,0 +1,9 @@
+torch
+segmentation-models-pytorch==0.3.3
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
+pillow
